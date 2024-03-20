@@ -1,0 +1,125 @@
+ <div id="services" class="services-area area-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="section-headline services-head text-center">
+              <h2>Os Nossos Serviços</h2>
+            </div>
+          </div>
+        </div>
+        <div class="row text-center">
+          <div class="services-contents">
+            <!-- Start Left services -->
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <div class="about-move">
+                <div class="services-details">
+                  <div class="single-services">
+                    <a class="services-icon" href="#">
+                      <i class="fa fa-retweet"></i>
+                    </a>
+                    <h4>Serviço de Restauro</h4>
+                    <p>
+                      Restauramos e reconstruimos completamente a sua viatura
+                      com absoluto rigor e qualidade.
+                    </p>
+                  </div>
+                </div>
+                <!-- end about-details -->
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <div class="about-move">
+                <div class="services-details">
+                  <div class="single-services">
+                    <a class="services-icon" href="#">
+                      <i class="fa fa-exchange"></i>
+                    </a>
+                    <h4>Serviço de Reparação</h4>
+                    <p>
+                      Reparamos o seu automóvel. Temos especialistas em qualquer
+                      tipo de avaria ou mau funcionamento.
+                    </p>
+                  </div>
+                </div>
+                <!-- end about-details -->
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <!-- end col-md-4 -->
+              <div class="about-move">
+                <div class="services-details">
+                  <div class="single-services">
+                    <a class="services-icon" href="#">
+                      <i class="fa fa-wrench"></i>
+                    </a>
+                    <h4>Serviço de Manutenção</h4>
+                    <p>
+                      Procedemos a diagnóstico de avarias e a manutenções
+                      preventivas. Preparamos o veiculo para inspeção.
+                    </p>
+                  </div>
+                </div>
+                <!-- end about-details -->
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <!-- end col-md-4 -->
+              <div class="about-move">
+                <div class="services-details">
+                  <div class="single-services">
+                    <a class="services-icon" href="#">
+                      <i class="fa fa-industry"></i>
+                    </a>
+                    <h4>Fabricação de Peças</h4>
+                    <p>
+                      Personalizamos ou reproduzimos peças indisponível no
+                      mercado.
+                    </p>
+                  </div>
+                </div>
+                <!-- end about-details -->
+              </div>
+            </div>
+            <!-- End Left services -->
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <!-- end col-md-4 -->
+              <div class="about-move">
+                <div class="services-details">
+                  <div class="single-services">
+                    <a class="services-icon" href="#">
+                      <i class="fa fa-cogs"></i>
+                    </a>
+                    <h4>Soluções de Performance</h4>
+                    <p>
+                      Modificamos e melhoramos o desempenho geral das áreas
+                      mecânicas e eletrónicas.
+                    </p>
+                  </div>
+                </div>
+                <!-- end about-details -->
+              </div>
+            </div>
+            <!-- End Left services -->
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <!-- end col-md-4 -->
+              <div class="about-move">
+                <div class="services-details">
+                  <div class="single-services">
+                    <a class="services-icon" href="#">
+                      <i class="fa fa-scissors"></i>
+                    </a>
+                    <h4>Serviços de Estofagem</h4>
+                    <p>
+                      Executamos a montagem, reparação e manutenção de qualquer
+                      tipo de estofo, volante, forros das portas e forro de
+                      tejadilho.
+                    </p>
+                  </div>
+                </div>
+                <!-- end about-details -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
